@@ -1,0 +1,109 @@
+$[refs](https://so.csdn.net/so/search?q=refs&spm=1001.2101.3001.7020) 与 $el 是什么？ 作用是什么? **ref，$refs，$el ，**三者之间的关系是什么？
+
+**ref** (**给元素或者子组件注册引用信息**) 就像你要给元素设置样式，就需要先给元素设定一个 class 一样，同理，你想获取哪个元素的 DOM，就给这个元素先设定一个 ref，其实这里和 JS 中的 document.各种方法获取 DOM 差不多，不过 ref 是访问 VUE 虚拟出来的DOM，这样可以有效的减少性能消耗
+
+简述三者区别：
+
+**ref ：是 元素的属性，用于设置在元素上**
+
+**$refs ：是 ref 的集合，集合里面包含了当前.vue中的所有 ref**
+
+**用于获取普通元素中的 DOM 以及 子组件中方法/参数的**
+
+**$el ：是 用于获取组件内 DOM（包括子组件，当前.vue组件，以及父组件）**
+
+
+
+示例
+
+### **case 1：点击按钮“确定”触发其他元素上的事件**
+
+```
+<template>
+    <el-button type="success"  @click="handleSubmit">
+    確定
+    </el-button>
+    <!-- 设定 ref="passA" -->
+    <el-button ref="passA" type="success" @click="handlePassA">
+    被触发 A
+    </el-button>
+	<!-- 设定 ref="passB" -->
+    <div style="height:40px; width:100px; background: burlywood;" 
+    ref="passB" @click="handlePassB">
+      被触发 B
+    </div>
+  </div>
+</template>
+
+
+handleSubmit(){
+    /*
+    * 有同学看到这里会问：咦，博主，你这里写法为什么不同呀？
+    * 嗯，这位同学不错，问到正题上了，避免了你在实际运用中出现问题
+    * 因为 ref="passA" 的按钮，它是 element ui 提供的组件，
+    * 组件本身不是 DOM，所以需要 .$el 的帮助后才能提取组件的 DOM
+    * 反之，对于提取普通元素上的 DOM ，就不需要了
+    */
+    this.$refs.passA.$el.click()
+    this.$refs.passB.click()
+ 
+    console.log(this.$refs)
+},
+handlePassA(){
+    console.log('我是 PassA, 我报触发了')
+    console.log('我自己的高度 =>',this.$refs.passA.$el.offsetHeight)
+},
+handlePassB(){
+    console.log('我是 PassB, 我报触发了')
+    console.log('我自己的高度 =>',this.$refs.passB.offsetHeight)
+}
+```
+
+
+
+### **case 2：页面加载，获取当前.vue文件中整体元素高度**
+
+```
+
+mounted(){
+    /*
+    * 这里通过 this.$el 直接获取当前.vue文件整体 DOM
+    */
+    console.log(this.$el)
+    console.log('我是 当前.vue文件 整体的高度 =>',this.$el.offsetHeight)
+    console.log('我是 PassB 我自己的高度 =>',this.$refs.passB.offsetHeight)
+},
+```
+
+**case 3：getBoundingClientRect（）获取元素在浏览器中的位置以及自身占据的空间的大小**
+
+```
+getBoundingClientRect()
+用法：元素对象.getBoundingClientRect()
+例如：div.getBoundingClientRect()
+返回值：
+getBoundingClientRect() 返回的是矩形的集合。
+表示了当前盒子在浏览器中的位置以及自身占据的空间的大小，除了 width 和 height 之外，
+其他的属性是相对于视图窗口的左上角 来计算的。
+如：
+
+bottom 是盒子底部边框 距离 视口顶部 的距离；
+right 是盒子右侧边框距离视口左侧的距离
+返回值参数结构：
+{
+    bottom: 200,
+    height: 200,
+    left: 0,
+    right: 100,
+    top: 0,
+    width: 100,
+    x: 0,
+    y: 0,
+}
+
+Vue2的用法
+this.$refs['passB'].getBoundingClientRect()
+
+
+```
+
