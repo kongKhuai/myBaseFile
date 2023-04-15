@@ -1,5 +1,6 @@
 # myBaseFile
-基础的文件
+
+学习笔记、Xmind、资源收集等
 
 ├─LICENSE
 ├─README.md
