@@ -1,7 +1,7 @@
 /*
- * @Author: kongs@njruiyue.cn
+ * @Author: 16651618507@163.com
  * @Date: 2023-03-30 07:10:58
- * @LastEditors: kongs@njruiyue.cn
+ * @LastEditors: 16651618507@163.com
  * @LastEditTime: 2023-04-14 07:17:19
  * @FilePath: \TypeScript\src\day14.ts
  * @Description: 

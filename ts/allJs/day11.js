@@ -1,8 +1,8 @@
 "use strict";
 /*
- * @Author: kongs@njruiyue.cn
+ * @Author: 16651618507@163.com
  * @Date: 2022-12-08 21:55:58
- * @LastEditors: kongs@njruiyue.cn
+ * @LastEditors: 16651618507@163.com
  * @LastEditTime: 2023-03-17 06:48:20
  * @FilePath: \TypeScript\src\day11.ts
  * @Description:
