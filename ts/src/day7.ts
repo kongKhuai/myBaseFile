@@ -6,6 +6,9 @@
 // 修饰符
 
 //!访问修饰符： private、 public、 protected
+// public   公开的，默认值。任何对象在任何地方都可以访问
+// protected   受保护的。能在当前类或者子类中进行访问
+// private  私有的。只能在当前类中进行访问
 
 // 默认为 public
 
@@ -76,50 +79,50 @@ console.log(gen_func1('tsTest'))
 console.log(gen_func2('tsTest_gen_func2'))
 
 
-type Fish7={
-    swim:()=>void
+type Fish7 = {
+    swim: () => void
 }
 type Bird7 = {
-    fly:()=>void
+    fly: () => void
 }
 // 类型谓词
- function isFish(pet:Fish7| Bird7):pet is Fish{
-        return (pet as Fish).swim !==undefined
- }
- const fish2:Fish7 = {
-     swim:() =>{
+function isFish(pet: Fish7 | Bird7): pet is Fish {
+    return (pet as Fish).swim !== undefined
+}
+const fish2: Fish7 = {
+    swim: () => {
         console.log('name')
     }
- }
- const fish3 = {
-    fly:()=>{
+}
+const fish3 = {
+    fly: () => {
         console.log('fish3')
     }
 }
-console.log(99,isFish(fish2),isFish(fish3))
+console.log(99, isFish(fish2), isFish(fish3))
 
-function isNumber(num:any): num is Number{
+function isNumber(num: any): num is Number {
     return typeof num === 'number'
 }
 // console.log(isNumber(123123))
 
-function getSmallPet():Fish7| Bird7{
-    let fish:Fish7={
-        swim:()=>{
+function getSmallPet(): Fish7 | Bird7 {
+    let fish: Fish7 = {
+        swim: () => {
 
         }
     }
-    let bird:Bird7={
-        fly:()=>{
+    let bird: Bird7 = {
+        fly: () => {
 
         }
     }
-    return true?bird:fish
+    return true ? bird : fish
 }
-let pet  = getSmallPet()
+let pet = getSmallPet()
 
-if(isFish(pet)){
+if (isFish(pet)) {
     pet.swim()
-}else{
+} else {
     // pet.fly()
 }

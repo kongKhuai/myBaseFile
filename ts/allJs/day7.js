@@ -2,6 +2,9 @@
 // 类型谓语
 // 修饰符
 //!访问修饰符： private、 public、 protected
+// public   公开的，默认值。任何对象在任何地方都可以访问
+// protected   受保护的。能在当前类或者子类中进行访问
+// private  私有的。只能在当前类中进行访问
 // 默认为 public
 // !当成员被标记为 private时，它就不能在声明它的类的外部访问，比如：
 class AnimalA {

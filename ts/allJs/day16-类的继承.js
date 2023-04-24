@@ -3,7 +3,7 @@
  * @Author: 16651618507@163.com
  * @Date: 2023-04-15 23:45:29
  * @LastEditors: 16651618507@163.com
- * @LastEditTime: 2023-04-18 23:58:56
+ * @LastEditTime: 2023-04-19 07:22:15
  * @FilePath: \ts\src\day16-类的继承.ts
  * @Description:
  *
@@ -95,3 +95,17 @@ class Orders extends Base {
     }
 }
 let orderVal = new Orders();
+// 继承内置类型
+// 主要是针对低版本 es5  需要明确的设置原型  
+class MsgError extends Error {
+    constructor(s) {
+        super(s);
+        // 明确的设置原型  
+        // Object.setPrototypeOf(this, MsgError.prototype)
+    }
+    sayHello() {
+        console.log("%c Line:121 🍣", "color:#93c0a4", this.message);
+    }
+}
+const msgError = new MsgError('image.png');
+console.log(msgError instanceof MsgError);

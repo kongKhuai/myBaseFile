@@ -5,7 +5,7 @@
 // ·readonly
 // ·构造器
 // ·方法
-// ·Getters\Setters   - 访问器和设置器1
+// ·Getters\Setters   - 访问器和设置器
 // ·索引签名
 
 class Point {
@@ -67,11 +67,13 @@ class GreeterTwo extends Greeter {
         console.log(this.query, query);// 16  49
     }
     get _query(): number {
+        console.log("%c Line:71 🍻", "color:#6ec1c2", 'get');
         return this.query
     }
     set _query(num: string | number) {
+        console.log("%c Line:75 🍇 num", "color:#b03734", 'set', num);
         let numVal = Number(num)
-        if (!Number.isFinite(num)) {
+        if (!Number.isFinite(numVal)) {
             numVal = 0
         }
         this.query = numVal
@@ -93,6 +95,7 @@ console.log("%c Line:89 🍕 p59._query", "color:#b03734", p59._query);
 // p59._query(123)//!此表达式不可调用。类型 "Number" 没有调用签名
 p59._query = 123
 p59._query = '1234'
+p59._query = 'str1234'
 console.log("%c Line:92 🍕 p59._query", "color:#ea7e5c", p59._query);
 
 // 类的索引签名
@@ -109,8 +112,6 @@ class MyClass {
         return Boolean(num.length > 0 && num.length <= 100)
     }
 }
-
-
 
 
 
