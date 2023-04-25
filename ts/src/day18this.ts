@@ -2,7 +2,7 @@
  * @Author: 16651618507@163.com
  * @Date: 2023-04-24 22:36:56
  * @LastEditors: 16651618507@163.com
- * @LastEditTime: 2023-04-25 23:19:02
+ * @LastEditTime: 2023-04-26 07:10:27
  * @FilePath: \ts\src\day18this.ts
  * @Description: 
  * 
@@ -90,3 +90,31 @@ box82.value = 'hello'
 if (box82.hasvalue()) {
     console.log(box82.value)
 }
+
+// 类的参数属性
+// 即在构造函数参数中定义，参数前面写属性修饰符
+class ParamsClass {
+    constructor(public readonly x: number, protected y: number, private z: number) {
+
+    }
+}
+let paramsClass101 = new ParamsClass(1, 2, 3)
+
+console.log("%c Line:103 🍷", "color:#465975", paramsClass101.x);
+// paramsClass101.x=123//无法为“x”赋值，因为它是只读属性。
+// paramsClass101.y//属性“y”受保护，只能在类“ParamsClass”及其子类中访问。
+// paramsClass101.z//属性“z”为私有属性，只能在类“ParamsClass”中访问。
+
+// 类表达式   写一个匿名的class然后绑定到一个标识符上，就和原来一样使用
+const someClass = class <T>{
+    content: T
+    constructor(v: T) {
+        this.content = v
+    }
+}
+const someVal = new someClass(3123)
+console.log("%c Line:117 🍰 someVal", "color:#f5ce50", someVal.content);
+
+
+
+
