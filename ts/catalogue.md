@@ -4,9 +4,19 @@
  * @LastEditors: 16651618507@163.com
  * @LastEditTime: 2023-03-16 06:36:55
  * @FilePath: \TypeScript\catalogue.md
- * @Description: 
+ * @Description: 基础篇
  * 
+ * TypeScript个绍
+ * TypeScript入门
+ * 常用类型
+ * 类型缩小
+ * 函数
+ * 对象类型
+ * 类型操纵
+ * 类
+ * 模块
 -->
+
 # TypeScript
 
 ## day1
