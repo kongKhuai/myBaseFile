@@ -2,8 +2,8 @@
  * @Author: 16651618507@163.com
  * @Date: 2023-03-14 07:08:00
  * @LastEditors: 16651618507@163.com
- * @LastEditTime: 2023-03-22 06:25:54
- * @FilePath: \TypeScript\src\day12.ts
+ * @LastEditTime: 2023-04-27 07:19:12
+ * @FilePath: \ts\src\day12.ts
  * @Description: 
  * 
  */
@@ -59,7 +59,7 @@ function filterfun<Type, Func extends (arr: Type) => boolean>(
     return arr.filter(func)
 }
 // 3示例
-function greet<Type extends String>(s: string) {
+function greet62<Type extends String>(s: string) {
     console.log(`hello,${s}`)
 }
 function greetGood(s: string) {

@@ -3,8 +3,8 @@
  * @Author: 16651618507@163.com
  * @Date: 2023-03-14 07:08:00
  * @LastEditors: 16651618507@163.com
- * @LastEditTime: 2023-03-22 06:25:54
- * @FilePath: \TypeScript\src\day12.ts
+ * @LastEditTime: 2023-04-27 07:19:12
+ * @FilePath: \ts\src\day12.ts
  * @Description:
  *
  */
@@ -51,7 +51,7 @@ function filterfun(arr, func) {
     return arr.filter(func);
 }
 // 3示例
-function greet(s) {
+function greet62(s) {
     console.log(`hello,${s}`);
 }
 function greetGood(s) {
