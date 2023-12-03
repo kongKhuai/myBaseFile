@@ -1,3 +1,12 @@
+<!--
+ * @Author: 16651618507@163.com
+ * @Date: 2023-05-01 00:08:56
+ * @LastEditors: 16651618507@163.com
+ * @LastEditTime: 2023-05-09 22:44:14
+ * @FilePath: \ts\src\高级篇\study.md
+ * @Description: 
+ * 
+-->
 # 高级篇
 
 ·声明变量

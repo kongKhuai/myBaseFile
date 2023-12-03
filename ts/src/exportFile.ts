@@ -24,16 +24,3 @@ export interface Dogs {
     name: string
 }
 
-
-// commonJs 语法
-function abs(num: number) {
-    return Math.abs(num)
-}
-// 方法1
-// module.exports = {
-//     pi: pi,
-//     abs,
-//     name: 'tom'
-// }
-// 方法二
-// exports.abs = abs
