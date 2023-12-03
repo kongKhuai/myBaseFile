@@ -12,8 +12,6 @@ $[refs](https://so.csdn.net/so/search?q=refs&spm=1001.2101.3001.7020) 与 $el �
 
 **$el ：是 用于获取组件内 DOM（包括子组件，当前.vue组件，以及父组件）**
 
-
-
 示例
 
 ### **case 1：点击按钮“确定”触发其他元素上的事件**
@@ -27,7 +25,7 @@ $[refs](https://so.csdn.net/so/search?q=refs&spm=1001.2101.3001.7020) 与 $el �
     <el-button ref="passA" type="success" @click="handlePassA">
     被触发 A
     </el-button>
-	<!-- 设定 ref="passB" -->
+ <!-- 设定 ref="passB" -->
     <div style="height:40px; width:100px; background: burlywood;" 
     ref="passB" @click="handlePassB">
       被触发 B
@@ -58,8 +56,6 @@ handlePassB(){
     console.log('我自己的高度 =>',this.$refs.passB.offsetHeight)
 }
 ```
-
-
 
 ### **case 2：页面加载，获取当前.vue文件中整体元素高度**
 
@@ -107,3 +103,4 @@ this.$refs['passB'].getBoundingClientRect()
 
 ```
 
+加油
