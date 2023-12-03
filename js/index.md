@@ -2,7 +2,7 @@
  * @Author: 16651618507@163.com
  * @Date: 2023-02-28 00:19:28
  * @LastEditors: 16651618507@163.com
- * @LastEditTime: 2023-12-03 21:52:05
+ * @LastEditTime: 2023-12-03 22:12:11
  * @FilePath: \myBaseFile\js\index.md
  * @Description: 
  * 
@@ -14,3 +14,5 @@ canvas-confetti按需五彩纸屑枪
 
 算法
 <https://visualgo.net/zh/>
+
+加油 加油
