@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "44b328d9eb6cf1f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a87abf3d0040176",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bdc85d02604e220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端知识汇总/Vue/$router和$route的区别.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84cf8f718d9ec14f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5393eb38e4a8b3ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eba2ef838411aa30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b344bca8600d9824",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b799072db712370",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b19e63858e160a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c81af463425c13e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa5d173fc03f36e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端知识汇总/Vue/$router和$route的区别.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "325fd32e09d08c3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端知识汇总/Vue/$router和$route的区别.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f2d6ae841b85c46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "943281a7195e6ea1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前端知识汇总/Vue/$router和$route的区别.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9bdc85d02604e220",
+  "lastOpenFiles": []
+}

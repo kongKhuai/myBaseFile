@@ -1,4 +1,5 @@
-网格背景 .gridBackground {
+/*网格背景*/
+.gridBackground {
   background-image: linear-gradient(
       90deg,
       rgba(50, 0, 0, 0.04) 3%,
@@ -9,7 +10,8 @@
   background-position: center center;
 }
 
-呼吸灯 .breathingLight {
+/*呼吸灯*/
+.breathingLight {
   animation: breath_light 3s ease infinite;
   @keyframes breath_light {
     0% {
