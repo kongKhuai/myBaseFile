@@ -1,7 +1,5 @@
 # $router和$route的区别
 `Vue Router`是`Vue.js`的路由管理器，路由就是`SPA`单页应用的访问路径，在`Vue`实例4内部，可以通过`$router`访问路由实例，即在路由定义文件中`export default`的`new Router(/*...*/)`路由实例，通过`$route`可以访问当前激活的路由的状态信息，包含了当前`URL`解析得到的信息，还有`URL`匹配到的路由记录，可以将`$router`理解为一个容器去管理了一组`$route`，而`$route`是进行了当前`URL`和组件的映射。
-$router
-$route
 ## $router对象属性
 * `$router.app`: 配置了`router`的`Vue`根实例。
 * `$router.mode`: 路由使用的模式。

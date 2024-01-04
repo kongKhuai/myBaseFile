@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端知识汇总/Vue/$router和$route的区别.md",
+                "file": "vue/vue3/Vue3快速上手.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端知识汇总/Vue/$router和$route的区别.md",
+                "file": "vue/vue3/Vue3快速上手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端知识汇总/Vue/$router和$route的区别.md",
+                "file": "vue/vue3/Vue3快速上手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端知识汇总/Vue/$router和$route的区别.md"
+                "file": "vue/vue3/Vue3快速上手.md"
+              }
+            }
+          },
+          {
+            "id": "800aacabda732030",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -147,5 +159,31 @@
     }
   },
   "active": "9bdc85d02604e220",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "前端知识汇总/Vue/对keep-alive组件的理解.md",
+    "vue/vue3笔记/index.md",
+    "vue/vue3/代码/备份/044_组件通信/pages/09_slot_默认插槽/Father.vue",
+    "vue/vue3/代码/备份/044_组件通信/pages/09_slot_具名插槽/Father.vue",
+    "vue/vue3/代码/备份/044_组件通信/pages/09_slot_默认插槽/Category.vue",
+    "vue/vue3/代码/备份/044_组件通信/pages/09_slot_作用域插槽/Game.vue",
+    "vue/vue3/代码/备份/044_组件通信/pages/09_slot_具名插槽/Category.vue",
+    "vue/vue3/代码/备份/044_组件通信/pages/09_slot_作用域插槽/Father.vue",
+    "vue/vue3/代码/备份/044_组件通信/pages/09_slot/Father.vue",
+    "vue/vue3/代码/备份/044_组件通信/pages/09_slot/Game.vue",
+    "vue/vue3/代码/备份/044_组件通信/pages/08_pinia/Father.vue",
+    "vue/vue3/代码/备份/044_组件通信/pages/07_provide-inject/GrandChild.vue",
+    "vue/vue3/images/自动补充value.png",
+    "vue/vue3/images/volar.png",
+    "vue/vue3/images/pinia_example.gif",
+    "vue/vue3/images/image-20231218085906380.png",
+    "vue/vue3/images/image-20231119185900990.png",
+    "vue/vue3/images/image-20231018144351536.png",
+    "vue/vue3/images/count.png",
+    "vue/vue3/images/computed.gif",
+    "vue/vue3/images/1696662256560-7239b9f9-a770-43c1-9386-6cc12ef1e9c0.gif",
+    "vue/vue3/images/1696662249851-db6403a1-acb5-481a-88e0-e1e34d2ef53a.gif",
+    "vue/vue3/Vue3快速上手.md",
+    "vue/一小时读完 Vue.js 设计与实现.md",
+    "前端知识汇总/Vue/$router和$route的区别.md"
+  ]
 }
