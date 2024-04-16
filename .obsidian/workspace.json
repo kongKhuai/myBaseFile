@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2c6bdf442c394d8",
+        "id": "495acf07b691cb73",
         "type": "tabs",
-        "dimension": 24.005305039787796,
         "children": [
           {
-            "id": "f4ed7a778cdf01ec",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "vue/npm/npm 处理异常常用办法.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "76afd377036a01e5",
-        "type": "tabs",
-        "dimension": 75.9946949602122,
-        "children": [
-          {
-            "id": "d5a33baef7d9075d",
+            "id": "c838fc379077210b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/npm/npm 处理异常常用办法.md",
+                "file": "vue/vue3/Vue3快速上手.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 312.50379180908203
   },
   "right": {
     "id": "8b19e63858e160a0",
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/npm/npm 处理异常常用办法.md",
+                "file": "vue/vue3/Vue3快速上手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/npm/npm 处理异常常用办法.md",
+                "file": "vue/vue3/Vue3快速上手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/npm/npm 处理异常常用办法.md"
+                "file": "vue/vue3/Vue3快速上手.md"
               }
             }
           },
@@ -176,12 +158,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d5a33baef7d9075d",
+  "active": "c838fc379077210b",
   "lastOpenFiles": [
-    "vue/npm/npm、yarn.md",
-    "vue/npm/npm 处理异常常用办法.md",
-    "vue/npm/node-sass.md",
+    "前端知识汇总/Linux/cat命令.md",
+    "2024-04-11.md",
     "vue/vue3/Vue3快速上手.md",
+    "vue/vue3/TypeScript 极速梳理.pdf",
+    "前端知识汇总/Linux/which命令.md",
+    "前端知识汇总/Linux/diff命令.md",
+    "前端知识汇总/Linux/aspell命令.md",
+    "2024-04-10.md",
+    "前端知识汇总/JavaScript/防抖与节流.md",
+    "2024-03-23.md",
+    "js/功能/区分当前浏览器环境.md",
+    "js/index.md",
+    "js/功能",
+    "vue/npm/npm 处理异常常用办法.md",
+    "vue/npm/npm、yarn.md",
+    "vue/npm/node-sass.md",
     "前端知识汇总/Vue/对keep-alive组件的理解.md",
     "vue/vue3笔记/index.md",
     "vue/vue3/代码/备份/044_组件通信/pages/09_slot_默认插槽/Father.vue",
@@ -192,8 +186,6 @@
     "vue/vue3/代码/备份/044_组件通信/pages/09_slot_作用域插槽/Father.vue",
     "vue/vue3/代码/备份/044_组件通信/pages/09_slot/Father.vue",
     "vue/vue3/代码/备份/044_组件通信/pages/09_slot/Game.vue",
-    "vue/vue3/代码/备份/044_组件通信/pages/08_pinia/Father.vue",
-    "vue/vue3/代码/备份/044_组件通信/pages/07_provide-inject/GrandChild.vue",
     "vue/vue3/images/自动补充value.png",
     "vue/vue3/images/volar.png",
     "vue/vue3/images/pinia_example.gif",
