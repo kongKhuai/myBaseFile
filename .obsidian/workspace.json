@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "495acf07b691cb73",
+        "id": "dec93e87b283f208",
         "type": "tabs",
         "children": [
           {
-            "id": "c838fc379077210b",
+            "id": "c5c5289d89b5bed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/vue3/Vue3快速上手.md",
-                "mode": "source",
-                "source": false
+                "file": "前端知识汇总/CSS/Grid布局.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/vue3/Vue3快速上手.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "前端知识汇总/CSS/Grid布局.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/vue3/Vue3快速上手.md",
+                "file": "前端知识汇总/CSS/Grid布局.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/vue3/Vue3快速上手.md"
+                "file": "前端知识汇总/CSS/Grid布局.md"
               }
             }
           },
@@ -141,12 +141,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,34 +158,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c838fc379077210b",
+  "active": "c5c5289d89b5bed2",
   "lastOpenFiles": [
-    "前端知识汇总/Linux/cat命令.md",
+    "git/git使用不同用户名维护多个项目时如何切换用户.md",
+    "git/命令.md",
+    "git/常用 Git 命令清单.md",
+    "markdown语法.md",
+    "2024-05-03.md",
+    "2024-05-02.md",
+    "前端知识汇总/鸿蒙/ArkUi/ArkUi基础知识.md",
+    "前端知识汇总/LeetCode/不同路径.md",
+    "README.md",
+    "前端知识汇总/LeetCode/保持城市天际线.md",
+    "2024-04-20.md",
+    "2024-04-18.md",
     "2024-04-11.md",
+    "2024-04-10.md",
+    "2024-03-23.md",
+    "前端知识汇总/Browser/对称加密与非对称加密.md",
+    "前端知识汇总/CSS/index.md",
+    "前端知识汇总/鸿蒙/ArkTs",
+    "前端知识汇总/鸿蒙/ArkUi",
+    "前端知识汇总/鸿蒙",
+    "前端知识汇总/HTML/HTML节点操作.md",
+    "前端知识汇总/HTML/Canvas基础.md",
+    "前端知识汇总/HTML/实现加载提示组件.md",
+    "前端知识汇总/HTML/实现拼图滑动验证码.md",
+    "前端知识汇总/HTML/前端性能优化方案.md",
     "vue/vue3/Vue3快速上手.md",
+    "前端知识汇总/Linux/cat命令.md",
     "vue/vue3/TypeScript 极速梳理.pdf",
     "前端知识汇总/Linux/which命令.md",
     "前端知识汇总/Linux/diff命令.md",
-    "前端知识汇总/Linux/aspell命令.md",
-    "2024-04-10.md",
-    "前端知识汇总/JavaScript/防抖与节流.md",
-    "2024-03-23.md",
-    "js/功能/区分当前浏览器环境.md",
-    "js/index.md",
     "js/功能",
-    "vue/npm/npm 处理异常常用办法.md",
-    "vue/npm/npm、yarn.md",
-    "vue/npm/node-sass.md",
-    "前端知识汇总/Vue/对keep-alive组件的理解.md",
-    "vue/vue3笔记/index.md",
     "vue/vue3/代码/备份/044_组件通信/pages/09_slot_默认插槽/Father.vue",
     "vue/vue3/代码/备份/044_组件通信/pages/09_slot_具名插槽/Father.vue",
     "vue/vue3/代码/备份/044_组件通信/pages/09_slot_默认插槽/Category.vue",
     "vue/vue3/代码/备份/044_组件通信/pages/09_slot_作用域插槽/Game.vue",
     "vue/vue3/代码/备份/044_组件通信/pages/09_slot_具名插槽/Category.vue",
-    "vue/vue3/代码/备份/044_组件通信/pages/09_slot_作用域插槽/Father.vue",
-    "vue/vue3/代码/备份/044_组件通信/pages/09_slot/Father.vue",
-    "vue/vue3/代码/备份/044_组件通信/pages/09_slot/Game.vue",
     "vue/vue3/images/自动补充value.png",
     "vue/vue3/images/volar.png",
     "vue/vue3/images/pinia_example.gif",
@@ -195,8 +205,6 @@
     "vue/vue3/images/count.png",
     "vue/vue3/images/computed.gif",
     "vue/vue3/images/1696662256560-7239b9f9-a770-43c1-9386-6cc12ef1e9c0.gif",
-    "vue/vue3/images/1696662249851-db6403a1-acb5-481a-88e0-e1e34d2ef53a.gif",
-    "vue/一小时读完 Vue.js 设计与实现.md",
-    "前端知识汇总/Vue/$router和$route的区别.md"
+    "vue/vue3/images/1696662249851-db6403a1-acb5-481a-88e0-e1e34d2ef53a.gif"
   ]
 }
