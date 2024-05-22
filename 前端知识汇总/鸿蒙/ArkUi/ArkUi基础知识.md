@@ -35,7 +35,7 @@ Image($r('app.media,logo'))
 	.height('80vp')
 ```
 
-#使用Resource数据设置图片的大小 ==推荐
+#使用Resource数据设置图片的大小 ==推荐==
 
 ```
 Image($r('app.media,logo'))
@@ -61,7 +61,7 @@ Image($r('app.media,logo'))
 #使用string数据设置文本内容
 `Text('登录界面')`
 
-#使用Resource数据设置文本内容 ==推荐
+#使用Resource数据设置文本内容 ==推荐==
 
 ```
 Text($r('app.string.login_page'))
@@ -90,7 +90,7 @@ Text('登录界面')
 	.fontSize('24fp')
 ```
 
-#使用Resource数据设置文本内容 ==推荐
+#使用Resource数据设置文本内容 ==推荐==
 
 ```
 Text($r('app.string.login_page')).
@@ -158,7 +158,7 @@ Text('登录界面')
 	.fontColor(Color.Black)
 ```
 
-#使用Resource枚举类型设置文本颜色 ==推荐
+#使用Resource枚举类型设置文本颜色 ==推荐==
 
 ```
 Text('登录界面')

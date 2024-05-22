@@ -66,7 +66,40 @@ export default {
   }
 };
 ```
+### 复杂对象数据
+Vue框架采用数据劫持结合发布者-订阅者模式的方式，通过 Object.defineProperty() 来劫持各个属性的setter，getter，在数据变动时发布消息给订阅者，触发相应监听回调。当把一个普通 Javascript 对象传给 Vue 实例来作为它的 data 选项时，Vue 将遍历它的属性，用 Object.defineProperty() 将它们转为 getter/setter。在属性被访问和修改时通知变化。
 
+性能分析时发现Vue框架下的proxySetter函数使用时间过长，
+解决的办法有两个：
+1.不要把复杂的对象绑定到Vue实例里。
+2.让这个对象的所有字段变成`non-configurable`，让Vue不再对其进行绑定操作
+
+Vue实例里对复杂对象进行数据绑定，会导致严重的性能问题，除了会在proxySetter花费大量时间，同时由于复杂对象有可能经常变动导致频繁触发以及GC，各个环节都变得很慢。在调试工具里proxySetter往前找找执行了哪些函数，在这些函数里找到那个复杂对象进行处理就可以解决问题了。
+
+```
+mounted(){  
+    this.fooObj = this.foo()  
+    // 这个复杂对象已经non-configurable，所以不会花大量的时间去修改  
+},  
+  
+methods:{  
+    foo(){  
+        // 返回一个复杂对象  
+        let result = {}  
+        for(let i=0;i<100000;i++){  
+            result[`key${i}`] = `value${i}`  
+        }  
+        // 对整个对象所有属性进行处理，让Vue无法修改setter，getter  
+        Object.keys(result).forEach(key => {  
+          Object.defineProperty(result, key, { configurable: false })  
+        })  
+        // 也可以使用Object.freeze()冻结的对象中的现有属性值是不可变的。  
+        // 用Object.seal()密封的对象可以改变其现有属性值。  
+        // Object.seal(result)  
+        return result  
+    }  
+}
+```
 ### 路由懒加载
 `Vue`是单页面应用，可能会有很多的路由引入，这样使用`webpcak`打包后的文件很大，当进入首页时，加载的资源过多，页面会出现白屏的情况，不利于用户体验。如果我们能把不同路由对应的组件分割成不同的代码块，然后当路由被访问的时候才加载对应的组件，这样就更加高效。对于`Vue`路由懒加载的方式有`Vue`异步组件、动态`import`、`webpack`提供的`require.ensure`，最常用的就是动态`import`的方式。
 
