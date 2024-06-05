@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端知识汇总/鸿蒙/ArkUi/Arkui 布局组件.md",
+                "file": "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/组件化开发.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 250.50379180908203
   },
   "right": {
     "id": "8b19e63858e160a0",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端知识汇总/鸿蒙/ArkUi/Arkui 布局组件.md",
+                "file": "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/组件化开发.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端知识汇总/鸿蒙/ArkUi/Arkui 布局组件.md",
+                "file": "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/组件化开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端知识汇总/鸿蒙/ArkUi/Arkui 布局组件.md"
+                "file": "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/组件化开发.md"
               }
             }
           },
@@ -161,18 +161,20 @@
   },
   "active": "2aece41b9c87e84a",
   "lastOpenFiles": [
-    "前端知识汇总/鸿蒙/ArkUi/样式&结构重用.md",
-    "前端知识汇总/鸿蒙/ArkUi/Arkui 布局组件.md",
-    "前端知识汇总/鸿蒙/ArkUi/事件交互.md",
-    "2024-06-04.md",
-    "前端知识汇总/鸿蒙/ArkUi/ArkUi基础知识.md",
+    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/ArkUI 基础知识.md",
+    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/组件化开发.md",
+    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/ArkUI 布局组件.md",
+    "2024-06-05.md",
     "2024-06-03.md",
+    "2024-05-25.md",
+    "2024-05-23.md",
+    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/样式&结构重用.md",
+    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/事件交互.md",
+    "2024-06-04.md",
     "前端知识汇总/HTML/Iframe框架及优缺点.md",
     "前端知识汇总/HTML/HTML5新特性.md",
     "前端知识汇总/Browser/跨域问题.md",
     "vue/vue2笔记/引入外部jscss.md",
-    "2024-05-25.md",
-    "2024-05-23.md",
     "vue/vue2笔记/杂货铺.md",
     "2024-05-22.md",
     "2024-05-21.md",
@@ -185,13 +187,11 @@
     "前端知识汇总/JavaScript/Object对象.md",
     "前端知识汇总/JavaScript/实现浅拷贝与深拷贝.md",
     "前端知识汇总/HTML/Service Worker的应用.md",
-    "前端知识汇总/HTML/HTML节点操作.md",
-    "前端知识汇总/JavaScript/DHTMLX Gantt/性能优化记录.md",
     "前端知识汇总/JavaScript/DHTMLX Gantt",
     "未命名.canvas",
-    "前端知识汇总/鸿蒙/ArkTs",
-    "前端知识汇总/鸿蒙/ArkUi",
-    "前端知识汇总/鸿蒙",
+    "前端知识汇总/鸿蒙NEXT/ArkTs",
+    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS",
+    "前端知识汇总/鸿蒙NEXT",
     "vue/vue3/TypeScript 极速梳理.pdf",
     "前端知识汇总/JavaScript/功能",
     "vue/vue3/代码/备份/044_组件通信/pages/09_slot_默认插槽/Father.vue",
