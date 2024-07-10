@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6f906801203d93b",
+        "id": "fecec33963f4f445",
         "type": "tabs",
         "children": [
           {
-            "id": "a86e9a5408784dc3",
+            "id": "0f6bb8c277eb73b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-17.md",
+                "file": "前端知识汇总/CSS/CSS 锚点定位.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "new URL",
+                "query": "nvm",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.50379180908203
+    "width": 406.50379180908203
   },
   "right": {
     "id": "8b19e63858e160a0",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-17.md",
+                "file": "前端知识汇总/CSS/CSS 锚点定位.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-17.md",
+                "file": "前端知识汇总/CSS/CSS 锚点定位.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-17.md"
+                "file": "前端知识汇总/CSS/CSS 锚点定位.md"
               }
             }
           },
@@ -140,13 +140,22 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "1f1b9f7284766140",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,57 +165,58 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "eba2ef838411aa30",
+  "active": "0f6bb8c277eb73b4",
   "lastOpenFiles": [
+    "前端知识汇总/JavaScript/功能/与服务器进行长时间连接并接受消息.md",
+    "前端知识汇总/CSS/CSS 锚点定位.md",
+    "css/收集.md",
+    "2024-07-09.md",
+    "2024-07-08.md",
+    "2024-07-07.md",
+    "2024-07-04.md",
+    "前端知识汇总/JavaScript/正则/案例.md",
+    "前端知识汇总/CSS/父级无显式高度如何设置子级的高度为百分百.md",
+    "前端知识汇总/JavaScript/功能/收集.md",
+    "前端知识汇总/JavaScript/JS变量提升.md",
+    "前端知识汇总/JavaScript/功能/可视化大屏开发，知道这三个适配方案，效率翻倍！.md",
+    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/ArkTS语言介绍.md",
+    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/样式&结构重用.md",
+    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/事件交互.md",
+    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/ArkUI 基础知识.md",
+    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/ArkUI 布局组件.md",
+    "诗词/笔记--东南西北自在。春夏秋冬逍遥.md",
+    "未命名.md",
+    "诗词/未命名 1.md",
+    "诗词/找书.md",
+    "诗词/自己.md",
+    "前端知识汇总/鸿蒙NEXT/oneself/华为开发者学堂_HarmonyOS第一课_ArkTS语法介绍.jpg",
+    "前端知识汇总/鸿蒙NEXT/oneself/developer.huawei.com_consumer_cn_training_cert_TCNyejnoh3.png",
+    "前端知识汇总/鸿蒙NEXT/oneself",
+    "前端知识汇总/鸿蒙NEXT/self/developer.huawei.com_consumer_cn_training_cert_TCNyejnoh3.png",
+    "前端知识汇总/鸿蒙NEXT/self/华为开发者学堂_HarmonyOS第一课_ArkTS语法介绍.jpg",
+    "前端知识汇总/鸿蒙NEXT/self/华为开发者学堂_HarmonyOS第一课_ArkTS语法介绍.jpg.crdownload",
+    "前端知识汇总/鸿蒙NEXT/self",
+    "前端知识汇总/鸿蒙NEXT/新建文件夹",
+    "vue/index.md",
+    "js/index.md",
+    "css",
+    "诗词",
+    "2024-06-20.md",
+    "2024-07-01.md",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/startIcon.png",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_xiaomi_scroll_01.jpg",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_tabbar_icon_3_selected.png",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_xiaomi_scroll_03.jpg",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_xiaomi_scroll_02.jpg",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_tabbar_icon_3.png",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_tabbar_icon_2_selected.png",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_tabbar_icon_2.png",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_tabbar_icon_1_selected.png",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_tabbar_icon_1.png",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_tabbar_icon_0_selected.png",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/01-Part1-构建界面",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/02-Part2-构建应用",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/代码/10-Part3Comment-05月17日更新/Part3Comment/entry/build/default/cache/default/default@CompileArkTS/esmodule/debug/entry/src/main/ets/model/CommentData.ts",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/代码/10-Part3Comment-05月17日更新/Part3Comment/entry/build/default/cache/default/default@CompileArkTS/esmodule/debug/entry/src/main/ets/model/CommentData.protoBin",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/代码/10-Part3Comment-05月17日更新/Part3Comment/entry/build/default/cache/default/default@CompileArkTS/esmodule/debug/entry/src/main/ets/entryability/EntryAbility.ts",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/代码/10-Part3Comment-05月17日更新/Part3Comment/entry/build/default/cache/default/default@CompileArkTS/esmodule/debug/entry/src/main/ets/entryability/EntryAbility.protoBin",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/代码/10-Part3Comment-05月17日更新/Part3Comment/entry/build/default/cache/default/default@CompileArkTS/esmodule/debug/entry/src/main/ets/pages/Index.ts",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/代码/10-Part3Comment-05月17日更新/Part3Comment/entry/build/default/cache/default/default@CompileArkTS/esmodule/debug/entry/src/main/ets/pages/Index.protoBin",
-    "2024-06-14.md",
-    "2024-06-17.md",
-    "前端知识汇总/JavaScript/常见的内存泄漏场景.md",
-    "2024-06-13.md",
-    "前端知识汇总/JavaScript/正则/案例.md",
-    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/组件化开发.md",
-    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/ArkUI 基础知识.md",
-    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/ArkUI 布局组件.md",
-    "2024-06-05.md",
-    "2024-06-03.md",
-    "2024-05-25.md",
-    "2024-05-23.md",
-    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/样式&结构重用.md",
-    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/事件交互.md",
-    "2024-06-04.md",
-    "前端知识汇总/HTML/Iframe框架及优缺点.md",
-    "前端知识汇总/HTML/HTML5新特性.md",
-    "前端知识汇总/Browser/跨域问题.md",
-    "vue/vue2笔记/引入外部jscss.md",
-    "vue/vue2笔记/杂货铺.md",
-    "2024-05-22.md",
-    "2024-05-21.md",
-    "2024-05-20.md",
-    "2024-05-16.md",
-    "2024-05-11.md",
     "未命名.canvas"
   ]
 }

@@ -1,5 +1,54 @@
 # JavaScript变量提升
 
+1、声明提升
+```
+console.log(a) // undefined
+var a = 1
+```
+
+2、值提升
+```
+fun()
+function fun(){
+//，，，
+}
+```
+3、行为改变
+```
+//正常
+const b = 1
+fun(){
+console.log(b)
+}
+fun()
+
+//报错
+const b = 1
+fun(){
+console.log(b)
+const b =2
+}
+fun()
+
+```
+4、副作用
+```
+import 包含此类提升
+index.js
+console.log('index.js')
+import * as test from './test.js'
+
+test.js
+console.log('test.js')
+
+输出：
+
+$ node index.js
+test.js 
+index.js
+```
+
+
 在`JavaScript`中变量声明与函数声明都会被提升到作用域顶部，优先级依次为: 函数声明 变量声明 变量赋值。
 
 ## 变量提升
