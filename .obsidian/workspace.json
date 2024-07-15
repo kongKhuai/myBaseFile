@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端知识汇总/CSS/CSS 锚点定位.md",
-                "mode": "source",
+                "file": "前端知识汇总/CSS/demo/类似Element ui 官网主题切换动画.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端知识汇总/CSS/CSS 锚点定位.md",
+                "file": "前端知识汇总/CSS/demo/类似Element ui 官网主题切换动画.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端知识汇总/CSS/CSS 锚点定位.md",
+                "file": "前端知识汇总/CSS/demo/类似Element ui 官网主题切换动画.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端知识汇总/CSS/CSS 锚点定位.md"
+                "file": "前端知识汇总/CSS/demo/类似Element ui 官网主题切换动画.md"
               }
             }
           },
@@ -171,8 +171,15 @@
   },
   "active": "0f6bb8c277eb73b4",
   "lastOpenFiles": [
-    "前端知识汇总/JavaScript/功能/与服务器进行长时间连接并接受消息.md",
+    "前端知识汇总/JavaScript/功能/海报.md",
+    "前端知识汇总/CSS/demo/类似Element ui 官网主题切换动画.md",
+    "前端知识汇总/CSS/demo",
+    "前端知识汇总/JavaScript/库/axios.md",
+    "前端知识汇总/CSS/性能.md",
+    "前端知识汇总/JavaScript/库",
+    "前端知识汇总/JavaScript/Content-Type.md",
     "前端知识汇总/CSS/CSS 锚点定位.md",
+    "前端知识汇总/JavaScript/功能/与服务器进行长时间连接并接受消息.md",
     "css/收集.md",
     "2024-07-09.md",
     "2024-07-08.md",
@@ -192,7 +199,6 @@
     "未命名.md",
     "诗词/未命名 1.md",
     "诗词/找书.md",
-    "诗词/自己.md",
     "前端知识汇总/鸿蒙NEXT/oneself/华为开发者学堂_HarmonyOS第一课_ArkTS语法介绍.jpg",
     "前端知识汇总/鸿蒙NEXT/oneself/developer.huawei.com_consumer_cn_training_cert_TCNyejnoh3.png",
     "前端知识汇总/鸿蒙NEXT/oneself",
@@ -201,12 +207,8 @@
     "前端知识汇总/鸿蒙NEXT/self/华为开发者学堂_HarmonyOS第一课_ArkTS语法介绍.jpg.crdownload",
     "前端知识汇总/鸿蒙NEXT/self",
     "前端知识汇总/鸿蒙NEXT/新建文件夹",
-    "vue/index.md",
-    "js/index.md",
     "css",
     "诗词",
-    "2024-06-20.md",
-    "2024-07-01.md",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/startIcon.png",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_xiaomi_scroll_01.jpg",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_tabbar_icon_3_selected.png",
@@ -215,8 +217,6 @@
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_tabbar_icon_3.png",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/01-Part1-构建界面",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/02-Part2-构建应用",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材",
     "未命名.canvas"
   ]
 }
