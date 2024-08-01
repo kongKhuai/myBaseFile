@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fecec33963f4f445",
+        "id": "0cf4fcb7c572f728",
         "type": "tabs",
         "children": [
           {
-            "id": "0f6bb8c277eb73b4",
+            "id": "97cb62966b6d6237",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端知识汇总/CSS/demo/类似Element ui 官网主题切换动画.md",
-                "mode": "preview",
+                "file": "前端知识汇总/JavaScript/功能/操作文件/前端处理Word文档.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvm",
+                "query": "滚动条",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.50379180908203
+    "width": 495.50379180908203
   },
   "right": {
     "id": "8b19e63858e160a0",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端知识汇总/CSS/demo/类似Element ui 官网主题切换动画.md",
+                "file": "前端知识汇总/JavaScript/功能/操作文件/前端处理Word文档.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端知识汇总/CSS/demo/类似Element ui 官网主题切换动画.md",
+                "file": "前端知识汇总/JavaScript/功能/操作文件/前端处理Word文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端知识汇总/CSS/demo/类似Element ui 官网主题切换动画.md"
+                "file": "前端知识汇总/JavaScript/功能/操作文件/前端处理Word文档.md"
               }
             }
           },
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,36 +168,38 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "0f6bb8c277eb73b4",
+  "active": "97cb62966b6d6237",
   "lastOpenFiles": [
-    "前端知识汇总/JavaScript/功能/海报.md",
+    "前端知识汇总/JavaScript/功能/操作文件",
+    "前端知识汇总/CSS/demo/原生视图转换动画 View Transitions API.md",
+    "前端知识汇总/JavaScript/功能/操作文件/前端处理Word文档.md",
+    "前端知识汇总/CSS/css代码改进项目.md",
+    "前端知识汇总/JavaScript/Js中RegExp对象.md",
+    "前端知识汇总/JavaScript/功能/前端怎么为每个设备生成唯一id.md",
+    "前端知识汇总/CSS/demo/如何用一行 CSS 实现 10 种现代布局.md",
+    "前端知识汇总/CSS/index.md",
+    "前端知识汇总/CSS/CSS引入方式.md",
+    "前端知识汇总/CSS/父级无显式高度如何设置子级的高度为百分百.md",
+    "前端知识汇总/CSS/demo/模拟水滴.md",
     "前端知识汇总/CSS/demo/类似Element ui 官网主题切换动画.md",
+    "vue/vue2笔记/index.md",
+    "vue/vue2笔记/杂货铺.md",
+    "css/收集.md",
+    "vue/在线编辑word和xlsx的方案/未命名.md",
+    "vue/npm/npm 处理异常常用办法.md",
+    "vue/在线编辑word和xlsx的方案",
+    "vue/npm/node-sass.md",
+    "js/index.md",
+    "js/文件格式转换.md",
+    "前端知识汇总/JavaScript/功能/未命名.md",
+    "2022前端TypeScript教程 陆神顶配版TS入门教程（代码资料）/readme.md",
+    "2022前端TypeScript教程 陆神顶配版TS入门教程（代码资料）/课程笔记/TypeScript学习指南-学习笔记V1.0.pdf",
+    "前端知识汇总/JavaScript/功能/海报.md",
     "前端知识汇总/CSS/demo",
     "前端知识汇总/JavaScript/库/axios.md",
     "前端知识汇总/CSS/性能.md",
     "前端知识汇总/JavaScript/库",
     "前端知识汇总/JavaScript/Content-Type.md",
-    "前端知识汇总/CSS/CSS 锚点定位.md",
-    "前端知识汇总/JavaScript/功能/与服务器进行长时间连接并接受消息.md",
-    "css/收集.md",
-    "2024-07-09.md",
-    "2024-07-08.md",
-    "2024-07-07.md",
-    "2024-07-04.md",
-    "前端知识汇总/JavaScript/正则/案例.md",
-    "前端知识汇总/CSS/父级无显式高度如何设置子级的高度为百分百.md",
-    "前端知识汇总/JavaScript/功能/收集.md",
-    "前端知识汇总/JavaScript/JS变量提升.md",
-    "前端知识汇总/JavaScript/功能/可视化大屏开发，知道这三个适配方案，效率翻倍！.md",
-    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/ArkTS语言介绍.md",
-    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/样式&结构重用.md",
-    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/事件交互.md",
-    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/ArkUI 基础知识.md",
-    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/ArkUI 布局组件.md",
-    "诗词/笔记--东南西北自在。春夏秋冬逍遥.md",
-    "未命名.md",
-    "诗词/未命名 1.md",
-    "诗词/找书.md",
     "前端知识汇总/鸿蒙NEXT/oneself/华为开发者学堂_HarmonyOS第一课_ArkTS语法介绍.jpg",
     "前端知识汇总/鸿蒙NEXT/oneself/developer.huawei.com_consumer_cn_training_cert_TCNyejnoh3.png",
     "前端知识汇总/鸿蒙NEXT/oneself",
@@ -215,8 +216,6 @@
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_xiaomi_scroll_03.jpg",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_xiaomi_scroll_02.jpg",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_tabbar_icon_3.png",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/01-Part1-构建界面",
     "未命名.canvas"
   ]
 }
