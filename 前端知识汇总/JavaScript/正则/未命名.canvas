@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4ff89b1f31f0c3ac","x":-680,"y":-160,"width":250,"height":60,"type":"text","text":"正则表达式\n"},
+		{"id":"3587e1b073e1a8a8","x":-279,"y":-173,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"812bfe2de7902b06","fromNode":"4ff89b1f31f0c3ac","fromSide":"right","toNode":"3587e1b073e1a8a8","toSide":"left"}
+	]
+}
