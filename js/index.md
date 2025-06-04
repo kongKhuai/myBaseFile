@@ -468,3 +468,18 @@ oimo.gif
 phoria.gif
 
 更多关于Canvas 3D的资源，请访问awesome-canvas[68]，项目地址 github.com/chinaBerg/a…[69]
+
+
+vue3 three.js 3D编辑器
+- **Astral 3D Editor Github 地址**：`https://github.com/mlt131220/Astral3DEditor`
+- **Astral 3D Editor 在线编辑器**：`https://editor.astraljs.com/#/`
+- **Astral 3D Editor 官方文档**：`http://editor-doc.astraljs.com/
+
+
+
+
+**弹幕工具库danmu**  
+
+- **文档：** https://imtaotao.github.io/danmu/document/zh/
+- **github：** https://github.com/imtaotao/danmu?tab=readme-ov-file
+- **在线demo地址：** https://imtaotao.github.io/danmu/
