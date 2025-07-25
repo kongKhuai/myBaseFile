@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端知识汇总/CSS/文章/z-index失效.md",
+                "file": "前端知识汇总/工具/用于启动本地开发服务器的命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "z-index失效"
+              "title": "用于启动本地开发服务器的命令"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "classList",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端知识汇总/CSS/文章/z-index失效.md",
+                "file": "前端知识汇总/工具/volta nrm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "z-index失效 的大纲"
+              "title": "volta nrm 的大纲"
             }
           },
           {
@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +195,31 @@
   },
   "active": "32aab901f5bbd704",
   "lastOpenFiles": [
-    "前端知识汇总/CSS/index.md",
+    "前端知识汇总/JavaScript/功能/随机数.md",
+    "前端知识汇总/工具/用于启动本地开发服务器的命令.md",
+    "前端知识汇总/HTML/小功能/获取节点行数.md",
+    "前端知识汇总/工具/volta nrm.md",
+    "前端知识汇总/HTML/小功能",
+    "vue/vue2笔记/mixins/统一管理定时器.md",
+    "vue/vue2笔记/杂货铺.md",
+    "vue/vue2笔记/mixins",
+    "前端知识汇总/CSS/demo/类似Element ui 官网主题切换动画.md",
+    "前端知识汇总/HTML/蒙层禁止页面滚动的方案.md",
+    "前端知识汇总/JavaScript/正则/案例.md",
+    "前端知识汇总/工具/大屏/Vue3 + 一个冷门 API，实现了浏览器多屏投屏，效果太惊艳了！.md",
+    "前端知识汇总/工具/文章/别盲目使用npm i.md",
+    "前端知识汇总/工具/大屏/大屏适配方案.md",
+    "前端知识汇总/工具/文章",
+    "vue/vue2笔记/element ui/滚动条组件.md",
+    "前端知识汇总/工具/大屏",
+    "前端知识汇总/Electron/installer.nsh.md",
+    "js/11 个 JavaScript 杀手脚本，用于自动执行日常任务.md",
+    "前端知识汇总/Electron/配置.md",
+    "前端知识汇总/CSS/父级无显式高度如何设置子级的高度为百分百.md",
     "前端知识汇总/CSS/文章/z-index失效.md",
+    "前端知识汇总/CSS/index.md",
     "前端知识汇总/JavaScript/库/vue3 pdf分页预览.md",
     "前端知识汇总/JavaScript/库/未命名.md",
-    "前端知识汇总/JavaScript/正则/案例.md",
     "前端知识汇总/JavaScript/正则/正则表达式.md",
     "前端知识汇总/JavaScript/正则/提取iconfont 样式名.md",
     "前端知识汇总/JavaScript/正则/未命名.canvas",
@@ -206,33 +227,13 @@
     "前端知识汇总/Electron/打开第三方exe并设置位置.md",
     "前端知识汇总/CSS/文章",
     "markdown语法.md",
-    "vue/index.md",
-    "前端知识汇总/Electron/文件操作.md",
-    "前端知识汇总/JavaScript/防抖与节流.md",
-    "前端知识汇总/JavaScript/Thunk函数的使用.md",
-    "js/文件格式转换.md",
     "前端知识汇总/Electron",
-    "js/uniapp修改svg图节点.md",
-    "js/index.md",
-    "vue/uniapp/uniapp开发踩坑兼容问题【第二弹！！】，血泪史o(╥﹏╥)o，一次学习终生避雷！！！.md",
-    "vue/uniapp/uniapp开发踩坑兼容问题.md",
-    "vue/工具、库/讲解前端中 File、Blob、ArrayBuffer、Base64、DataURL.md",
     "vue/uniapp",
-    "vue/vue2笔记/element ui/滚动条组件.md",
-    "vue/工具、库/AI 组件库，React 、Vue 全覆盖，AI 组件库超全汇总.md",
-    "vue/工具、库/Vue3 生态最受欢迎的 5 个拖拽神库！.md",
-    "vue/vue3/代码/未命名.md",
-    "其他/命令行/处理中文乱码.md",
-    "README.md",
     "其他/命令行",
     "其他",
     "Pasted image 20250325135944.png",
     "vue/工具、库",
-    "vue/vue2笔记/element ui",
-    "前端知识汇总/工具/ICON",
     "6c96d700aa08928761cc8bcbcf7e005.png",
-    "前端知识汇总/工具",
-    "前端知识汇总/JavaScript/功能/操作文件",
     "前端知识汇总/鸿蒙NEXT/oneself/华为开发者学堂_HarmonyOS第一课_ArkTS语法介绍.jpg",
     "前端知识汇总/鸿蒙NEXT/oneself/developer.huawei.com_consumer_cn_training_cert_TCNyejnoh3.png",
     "前端知识汇总/鸿蒙NEXT/self/developer.huawei.com_consumer_cn_training_cert_TCNyejnoh3.png",
