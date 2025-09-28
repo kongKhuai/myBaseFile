@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "928a8bbf847d1aea",
+        "id": "11765c5cf17c021f",
         "type": "tabs",
         "children": [
           {
-            "id": "32aab901f5bbd704",
+            "id": "bbcb4e5c34a28839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端知识汇总/工具/用于启动本地开发服务器的命令.md",
+                "file": "vue/vue2笔记/element ui/滚动条组件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "用于启动本地开发服务器的命令"
+              "title": "滚动条组件"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "classList",
+                "query": "滚动条",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,8 +194,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32aab901f5bbd704",
+  "active": "bbcb4e5c34a28839",
   "lastOpenFiles": [
+    "前端知识汇总/CSS/滚动条样式.md",
+    "前端知识汇总/HTML/蒙层禁止页面滚动的方案.md",
+    "前端知识汇总/Plugin/基于slate构建文档编辑器.md",
+    "前端知识汇总/工具/文章/登录后token存放在那里安全.md",
     "前端知识汇总/JavaScript/功能/随机数.md",
     "前端知识汇总/工具/用于启动本地开发服务器的命令.md",
     "前端知识汇总/HTML/小功能/获取节点行数.md",
@@ -204,7 +209,6 @@
     "vue/vue2笔记/杂货铺.md",
     "vue/vue2笔记/mixins",
     "前端知识汇总/CSS/demo/类似Element ui 官网主题切换动画.md",
-    "前端知识汇总/HTML/蒙层禁止页面滚动的方案.md",
     "前端知识汇总/JavaScript/正则/案例.md",
     "前端知识汇总/工具/大屏/Vue3 + 一个冷门 API，实现了浏览器多屏投屏，效果太惊艳了！.md",
     "前端知识汇总/工具/文章/别盲目使用npm i.md",
@@ -223,10 +227,7 @@
     "前端知识汇总/JavaScript/正则/正则表达式.md",
     "前端知识汇总/JavaScript/正则/提取iconfont 样式名.md",
     "前端知识汇总/JavaScript/正则/未命名.canvas",
-    "前端知识汇总/CSS/文章/9 个被低估的 CSS 特性：让前端开发更高效的秘密武器名.md",
-    "前端知识汇总/Electron/打开第三方exe并设置位置.md",
     "前端知识汇总/CSS/文章",
-    "markdown语法.md",
     "前端知识汇总/Electron",
     "vue/uniapp",
     "其他/命令行",
