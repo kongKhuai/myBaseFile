@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/工具、库/AI 组件库，React 、Vue 全覆盖，AI 组件库超全汇总.md",
+                "file": "前端知识汇总/Vue/Hydrate（水合）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI 组件库，React 、Vue 全覆盖，AI 组件库超全汇总"
+              "title": "Hydrate（水合）"
+            }
+          },
+          {
+            "id": "45909bb503d6cde3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端知识汇总/JavaScript/功能/乱七八糟的.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "乱七八糟的"
+            }
+          },
+          {
+            "id": "cb6afbc09a509ced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "其他/命令行/Windows系统中正确删除重复文件“必看.txt”的几种方法。.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows系统中正确删除重复文件“必看.txt”的几种方法。"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "滚动条",
+                "query": "复制",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,6 +212,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -193,8 +223,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bbcb4e5c34a28839",
+  "active": "cb6afbc09a509ced",
   "lastOpenFiles": [
+    "其他/命令行/处理中文乱码.md",
+    "其他/命令行/Windows系统中正确删除重复文件“必看.txt”的几种方法。.md",
+    "6c96d700aa08928761cc8bcbcf7e005.png",
+    "前端知识汇总/JavaScript/库/Three.js/Three.js 3D 项目必备的 7 个工具和资源.md",
+    "前端知识汇总/JavaScript/库/Three.js",
+    "前端知识汇总/JavaScript/功能/3种前端实现复制功能的方法.md",
+    "前端知识汇总/Plugin/初探富文本之富文本概述.md",
+    "前端知识汇总/JavaScript/功能/乱七八糟的.md",
+    "前端知识汇总/JavaScript/功能/前端获取本地内网ip.md",
+    "前端知识汇总/Browser/CDN缓存的理解.md",
+    "前端知识汇总/HTML/可替换元素和非替换元素.md",
+    "前端知识汇总/Browser/未命名",
+    "前端知识汇总/HTML/多列布局Column.md",
+    "前端知识汇总/HTML/节点dataset.md",
+    "前端知识汇总/Vue/new CustomEvent()和Vue 的 `emit`方式的异同点。.md",
+    "vue/工具、库/AI 组件库，React 、Vue 全覆盖，AI 组件库超全汇总.md",
+    "前端知识汇总/Vue/Hydrate（水合）.md",
     "vue/工具、库/Vue3 生态 10 个拖拽神库！覆盖 99% 拖拽需求！.md",
     "vue/vue2笔记/element ui/滚动条组件.md",
     "前端知识汇总/CSS/滚动条样式.md",
@@ -209,31 +256,14 @@
     "vue/vue2笔记/mixins/统一管理定时器.md",
     "vue/vue2笔记/杂货铺.md",
     "vue/vue2笔记/mixins",
-    "前端知识汇总/CSS/demo/类似Element ui 官网主题切换动画.md",
-    "前端知识汇总/JavaScript/正则/案例.md",
-    "前端知识汇总/工具/大屏/Vue3 + 一个冷门 API，实现了浏览器多屏投屏，效果太惊艳了！.md",
-    "前端知识汇总/工具/文章/别盲目使用npm i.md",
-    "前端知识汇总/工具/大屏/大屏适配方案.md",
     "前端知识汇总/工具/文章",
     "前端知识汇总/工具/大屏",
-    "前端知识汇总/Electron/installer.nsh.md",
-    "js/11 个 JavaScript 杀手脚本，用于自动执行日常任务.md",
-    "前端知识汇总/Electron/配置.md",
-    "前端知识汇总/CSS/父级无显式高度如何设置子级的高度为百分百.md",
-    "前端知识汇总/CSS/文章/z-index失效.md",
-    "前端知识汇总/CSS/index.md",
-    "前端知识汇总/JavaScript/库/vue3 pdf分页预览.md",
-    "前端知识汇总/JavaScript/库/未命名.md",
-    "前端知识汇总/JavaScript/正则/正则表达式.md",
     "前端知识汇总/JavaScript/正则/未命名.canvas",
     "前端知识汇总/CSS/文章",
     "前端知识汇总/Electron",
     "vue/uniapp",
     "其他/命令行",
-    "其他",
     "Pasted image 20250325135944.png",
-    "vue/工具、库",
-    "6c96d700aa08928761cc8bcbcf7e005.png",
     "前端知识汇总/鸿蒙NEXT/oneself/华为开发者学堂_HarmonyOS第一课_ArkTS语法介绍.jpg",
     "前端知识汇总/鸿蒙NEXT/oneself/developer.huawei.com_consumer_cn_training_cert_TCNyejnoh3.png",
     "前端知识汇总/鸿蒙NEXT/self/developer.huawei.com_consumer_cn_training_cert_TCNyejnoh3.png",
