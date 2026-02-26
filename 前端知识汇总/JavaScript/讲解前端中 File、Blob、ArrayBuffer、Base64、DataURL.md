@@ -19,9 +19,14 @@ const file = new File(['content'], 'demo.txt', {  type: 'text/plain',  l
 **创建方法：**
 
 ```
-// 从字符串创建const blob1 = new Blob(['Hello World'], { type: 'text/plain' });// 从ArrayBuffer创建const buffer = new ArrayBuffer(8);const blob2 = new Blob([buffer]);// 合并Blobconst combined = new Blob([blob1, blob2]);
+// 从字符串创建
+const blob1 = new Blob(['Hello World'], { type: 'text/plain' });
+// 从ArrayBuffer创建
+const buffer = new ArrayBuffer(8);
+const blob2 = new Blob([buffer]);
+// 合并Blobconst combined = new Blob([blob1, blob2]);
 ```
-
+[[大文件预览选择Blob URL的原因]]
 ## 3. FileReader
 
 **核心方法：**
@@ -92,3 +97,7 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...
 |ArrayBuffer|最低|最快|二进制操作/WebSocket传输|
 |DataURL|高|慢|文件存储/切片上传|
 |Object URL|中|快|大文件预览|
+
+
+
+

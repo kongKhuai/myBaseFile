@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "11765c5cf17c021f",
+        "id": "d036f2a7682c77b4",
         "type": "tabs",
         "children": [
           {
-            "id": "bbcb4e5c34a28839",
+            "id": "ee4748608b53d311",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端知识汇总/Vue/Hydrate（水合）.md",
+                "file": "前端知识汇总/JavaScript/功能/操作文件/逆向js的部分工具函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hydrate（水合）"
-            }
-          },
-          {
-            "id": "45909bb503d6cde3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端知识汇总/JavaScript/功能/乱七八糟的.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "乱七八糟的"
-            }
-          },
-          {
-            "id": "cb6afbc09a509ced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "其他/命令行/Windows系统中正确删除重复文件“必看.txt”的几种方法。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows系统中正确删除重复文件“必看.txt”的几种方法。"
+              "title": "逆向js的部分工具函数"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "复制",
+                "query": "blob",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端知识汇总/工具/volta nrm.md",
+                "file": "前端知识汇总/JavaScript/功能/操作文件/逆向js的部分工具函数.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "volta nrm 的大纲"
+              "title": "逆向js的部分工具函数 的大纲"
             }
           },
           {
@@ -207,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,55 +193,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb6afbc09a509ced",
+  "active": "ee4748608b53d311",
   "lastOpenFiles": [
-    "其他/命令行/处理中文乱码.md",
-    "其他/命令行/Windows系统中正确删除重复文件“必看.txt”的几种方法。.md",
-    "6c96d700aa08928761cc8bcbcf7e005.png",
-    "前端知识汇总/JavaScript/库/Three.js/Three.js 3D 项目必备的 7 个工具和资源.md",
-    "前端知识汇总/JavaScript/库/Three.js",
-    "前端知识汇总/JavaScript/功能/3种前端实现复制功能的方法.md",
-    "前端知识汇总/Plugin/初探富文本之富文本概述.md",
+    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/事件交互.md",
+    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/代码/02-myfirst-0229更新/myfirst0229/AppScope/resources/base/media/app_icon.png",
+    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/01-Part1-构建界面/bz_img.jpg",
+    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/01-Part1-构建界面/avatar.jpg",
+    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/PPT笔记/01-第一章-鸿蒙界面开发(01-20).pdf",
+    "前端知识汇总/JavaScript/功能/evil.js.md",
+    "前端知识汇总/JavaScript/功能/与服务器进行长时间连接并接受消息.md",
+    "前端知识汇总/JavaScript/功能/收集.md",
     "前端知识汇总/JavaScript/功能/乱七八糟的.md",
-    "前端知识汇总/JavaScript/功能/前端获取本地内网ip.md",
-    "前端知识汇总/Browser/CDN缓存的理解.md",
-    "前端知识汇总/HTML/可替换元素和非替换元素.md",
-    "前端知识汇总/Browser/未命名",
-    "前端知识汇总/HTML/多列布局Column.md",
-    "前端知识汇总/HTML/节点dataset.md",
-    "前端知识汇总/Vue/new CustomEvent()和Vue 的 `emit`方式的异同点。.md",
-    "vue/工具、库/AI 组件库，React 、Vue 全覆盖，AI 组件库超全汇总.md",
-    "前端知识汇总/Vue/Hydrate（水合）.md",
-    "vue/工具、库/Vue3 生态 10 个拖拽神库！覆盖 99% 拖拽需求！.md",
-    "vue/vue2笔记/element ui/滚动条组件.md",
-    "前端知识汇总/CSS/滚动条样式.md",
-    "前端知识汇总/HTML/蒙层禁止页面滚动的方案.md",
-    "前端知识汇总/Plugin/基于slate构建文档编辑器.md",
-    "前端知识汇总/工具/文章/登录后token存放在那里安全.md",
-    "前端知识汇总/JavaScript/功能/随机数.md",
-    "前端知识汇总/工具/用于启动本地开发服务器的命令.md",
-    "前端知识汇总/HTML/小功能/获取节点行数.md",
+    "前端知识汇总/JavaScript/库/前端文件预览编辑/PDF 预览 EmbedPDF.md",
+    "前端知识汇总/JavaScript/匿名函数与自执行函数.md",
+    "前端知识汇总/JavaScript/库/前端文件预览编辑",
+    "前端知识汇总/JavaScript/模板语法的简单实现.md",
+    "前端知识汇总/JavaScript/正则/案例.md",
+    "前端知识汇总/JavaScript/正则/正则表达式.md",
+    "前端知识汇总/JavaScript/功能/未命名.md",
     "前端知识汇总/工具/volta nrm.md",
+    "前端知识汇总/JavaScript/功能/字符串加密文.md",
+    "前端知识汇总/JavaScript/讲解前端中 File、Blob、ArrayBuffer、Base64、DataURL.md",
+    "前端知识汇总/JavaScript/大文件预览选择Blob URL的原因.md",
+    "前端知识汇总/JavaScript/库/Three.js/Three.js 3D 项目必备的 7 个工具和资源.md",
+    "前端知识汇总/JavaScript/库/未命名.md",
+    "README.md",
+    "markdown语法.md",
+    "未命名 2.base",
+    "未命名 1.base",
+    "未命名.base",
+    "前端知识汇总/Vue/Hydrate（水合）.md",
+    "vue/npm/安装依赖慢，如何解决？.md",
+    "前端知识汇总/JavaScript/功能/3种前端实现复制功能的方法.md",
+    "前端知识汇总/JavaScript/库/库 省市区、拼音、日历、分词、数字汉字互转等.md",
+    "前端知识汇总/JavaScript/库/分享大厂使用最多的 7 个高效开发工具库.md",
+    "其他/命令行/Windows系统中正确删除重复文件“必看.txt”的几种方法。.md",
+    "其他/命令行/处理中文乱码.md",
+    "6c96d700aa08928761cc8bcbcf7e005.png",
+    "前端知识汇总/JavaScript/库/Three.js",
+    "前端知识汇总/Browser/未命名",
     "前端知识汇总/HTML/小功能",
-    "vue/vue2笔记/mixins/统一管理定时器.md",
-    "vue/vue2笔记/杂货铺.md",
     "vue/vue2笔记/mixins",
     "前端知识汇总/工具/文章",
-    "前端知识汇总/工具/大屏",
     "前端知识汇总/JavaScript/正则/未命名.canvas",
-    "前端知识汇总/CSS/文章",
-    "前端知识汇总/Electron",
-    "vue/uniapp",
-    "其他/命令行",
     "Pasted image 20250325135944.png",
     "前端知识汇总/鸿蒙NEXT/oneself/华为开发者学堂_HarmonyOS第一课_ArkTS语法介绍.jpg",
     "前端知识汇总/鸿蒙NEXT/oneself/developer.huawei.com_consumer_cn_training_cert_TCNyejnoh3.png",
     "前端知识汇总/鸿蒙NEXT/self/developer.huawei.com_consumer_cn_training_cert_TCNyejnoh3.png",
     "前端知识汇总/鸿蒙NEXT/self/华为开发者学堂_HarmonyOS第一课_ArkTS语法介绍.jpg",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/startIcon.png",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_xiaomi_scroll_01.jpg",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_tabbar_icon_3_selected.png",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/ic_xiaomi_scroll_03.jpg",
     "未命名.canvas"
   ]
 }
