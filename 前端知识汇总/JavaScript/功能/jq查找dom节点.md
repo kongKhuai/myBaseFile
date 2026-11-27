@@ -1,3 +1,38 @@
+
+```
+
+`:scope` 伪类将匹配范围严格限制为当前元素的直接子节点，浏览器只需要检查 `g` 的 `children`，无需递归遍历深层后代。当 `g` 内部嵌套结构较深或节点较多时，这种差异会更明显。
+g.querySelector(":scope > metadata")
+
+`:scope` 本身表示"当前元素"（即调用 `querySelector` 的那个元素），`>` 是限制"仅直接子级"的**子组合器**。它们是两个独立的概念，只是常搭配使用
+```
+**1. `:has()` 伪类（现代浏览器支持）**
+```
+// 选择包含 .child 的父元素（从外部容器查）
+document.querySelector("g:has(> metadata)");
+```
+
+
+**2. JavaScript 查找**
+```
+// 已知子元素，找直接父级
+const parent = element.parentElement;
+
+// 已知子元素，找最近的 g 祖先
+const ancestor = element.closest("g");
+
+// g 的直接子元素 metadata 
+g.querySelector(":scope > metadata") 
+
+// g 后面紧邻的同级 g 元素 
+g.querySelector(":scope + g") 
+
+// g 后面所有的同级 g 元素
+g.querySelector(":scope ~ g") 
+```
+
+
+
 ``` javascript
 
    // var pdoc = $($("iframe[id='月度检修计划']")[0].contentWindow.document).ready(function () {

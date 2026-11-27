@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d036f2a7682c77b4",
+        "id": "d7d0025b03d24395",
         "type": "tabs",
         "children": [
           {
-            "id": "ee4748608b53d311",
+            "id": "9e25abe3060161aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端知识汇总/JavaScript/功能/操作文件/逆向js的部分工具函数.md",
-                "mode": "source",
+                "file": "读书/小规模荡气回肠：黄集伟语词笔记系列之六(精选).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逆向js的部分工具函数"
+              "title": "小规模荡气回肠：黄集伟语词笔记系列之六(精选)"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blob",
+                "query": "call",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.50379180908203
+    "width": 635.6855545043945
   },
   "right": {
     "id": "8b19e63858e160a0",
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端知识汇总/JavaScript/功能/操作文件/逆向js的部分工具函数.md",
+                "file": "读书/小规模荡气回肠：黄集伟语词笔记系列之六(精选).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "逆向js的部分工具函数 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -169,8 +171,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -178,70 +180,70 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 556.166748046875
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "ee4748608b53d311",
+  "active": "9e25abe3060161aa",
   "lastOpenFiles": [
-    "前端知识汇总/鸿蒙NEXT/ArkUI__ArkTS/事件交互.md",
+    "读书/中国的精神记忆：2008沉思录.md",
+    "读书/张其成全解周易.md",
+    "读书/易经的奥秘.md",
+    "读书/王立群译郁离子.md",
+    "读书/忍者——生于黑暗的军团.md",
+    "读书/物演通论.md",
+    "读书/温暖的春晖：就你一生的亲情故事.md",
+    "读书/活物.md",
+    "读书/康复大地：和自然的艺术对话.md",
+    "读书/爱情的容量.md",
+    "读书/水浒潜规则.md",
+    "读书/汉字起源新解.md",
+    "读书/怕是风流负佳期.md",
+    "读书/生活的意义.md",
+    "读书/水平思考法.md",
+    "读书/熨帖灵魂的枕边书：倾城十年·芙蓉锦.md",
+    "读书/生存空虚说.md",
+    "读书/林花谢了春红.md",
+    "读书/心生菩提树.md",
+    "读书/汉唐精神：直面历史与经典的13堂课.md",
+    "读书/死刑犯行刑前的不眠夜：残影.md",
+    "读书/生命不再等待.md",
+    "读书/煮酒说水浒.md",
+    "读书/权力玩家.md",
+    "读书/正念.md",
+    "读书/快乐老家.md",
+    "未命名/000_坚果云闪电下载介绍.html.nssyncsc",
+    "未命名",
+    "读书",
+    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/代码/02-myfirst-0229更新/myfirst0229/entry/src/main/resources/base/media/ic_360.svg",
+    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/代码/02-myfirst-0229更新/myfirst0229/entry/src/main/resources/base/media/flower.png",
+    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/代码/02-myfirst-0229更新/myfirst0229/entry/src/main/resources/base/media/avatar.jpg",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/代码/02-myfirst-0229更新/myfirst0229/AppScope/resources/base/media/app_icon.png",
+    "vue/vue3/TypeScript 极速梳理.pdf",
+    "笔记整合/资源收藏",
+    "笔记整合/前端",
+    "笔记整合/工程化",
+    "笔记整合/计算机基础",
+    "笔记整合/生活与其他",
+    "笔记整合/工作",
+    "未命名 2.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "vue/b0f41a16d1004504b1c723d2e296c380~tplv-k3u1fbpfcp-jj-mark-v1_0_0_0_0_5o6Y6YeR5oqA5pyv56S-5Yy6IEAgc2VydHJhbGluZQ==_q75.webp",
+    "6c96d700aa08928761cc8bcbcf7e005.png",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/01-Part1-构建界面/bz_img.jpg",
     "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/01-Part1-构建界面/avatar.jpg",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/PPT笔记/01-第一章-鸿蒙界面开发(01-20).pdf",
-    "前端知识汇总/JavaScript/功能/evil.js.md",
-    "前端知识汇总/JavaScript/功能/与服务器进行长时间连接并接受消息.md",
-    "前端知识汇总/JavaScript/功能/收集.md",
-    "前端知识汇总/JavaScript/功能/乱七八糟的.md",
-    "前端知识汇总/JavaScript/库/前端文件预览编辑/PDF 预览 EmbedPDF.md",
-    "前端知识汇总/JavaScript/匿名函数与自执行函数.md",
-    "前端知识汇总/JavaScript/库/前端文件预览编辑",
-    "前端知识汇总/JavaScript/模板语法的简单实现.md",
-    "前端知识汇总/JavaScript/正则/案例.md",
-    "前端知识汇总/JavaScript/正则/正则表达式.md",
-    "前端知识汇总/JavaScript/功能/未命名.md",
-    "前端知识汇总/工具/volta nrm.md",
-    "前端知识汇总/JavaScript/功能/字符串加密文.md",
-    "前端知识汇总/JavaScript/讲解前端中 File、Blob、ArrayBuffer、Base64、DataURL.md",
-    "前端知识汇总/JavaScript/大文件预览选择Blob URL的原因.md",
-    "前端知识汇总/JavaScript/库/Three.js/Three.js 3D 项目必备的 7 个工具和资源.md",
-    "前端知识汇总/JavaScript/库/未命名.md",
-    "README.md",
-    "markdown语法.md",
-    "未命名 2.base",
-    "未命名 1.base",
-    "未命名.base",
-    "前端知识汇总/Vue/Hydrate（水合）.md",
-    "vue/npm/安装依赖慢，如何解决？.md",
-    "前端知识汇总/JavaScript/功能/3种前端实现复制功能的方法.md",
-    "前端知识汇总/JavaScript/库/库 省市区、拼音、日历、分词、数字汉字互转等.md",
-    "前端知识汇总/JavaScript/库/分享大厂使用最多的 7 个高效开发工具库.md",
-    "其他/命令行/Windows系统中正确删除重复文件“必看.txt”的几种方法。.md",
-    "其他/命令行/处理中文乱码.md",
-    "6c96d700aa08928761cc8bcbcf7e005.png",
-    "前端知识汇总/JavaScript/库/Three.js",
-    "前端知识汇总/Browser/未命名",
-    "前端知识汇总/HTML/小功能",
-    "vue/vue2笔记/mixins",
-    "前端知识汇总/工具/文章",
     "前端知识汇总/JavaScript/正则/未命名.canvas",
     "Pasted image 20250325135944.png",
-    "前端知识汇总/鸿蒙NEXT/oneself/华为开发者学堂_HarmonyOS第一课_ArkTS语法介绍.jpg",
-    "前端知识汇总/鸿蒙NEXT/oneself/developer.huawei.com_consumer_cn_training_cert_TCNyejnoh3.png",
-    "前端知识汇总/鸿蒙NEXT/self/developer.huawei.com_consumer_cn_training_cert_TCNyejnoh3.png",
-    "前端知识汇总/鸿蒙NEXT/self/华为开发者学堂_HarmonyOS第一课_ArkTS语法介绍.jpg",
-    "前端知识汇总/鸿蒙NEXT/鸿蒙next星河版/图片素材/03-Part3-组件化开发/startIcon.png",
-    "未命名.canvas"
+    "前端知识汇总/鸿蒙NEXT/oneself/华为开发者学堂_HarmonyOS第一课_ArkTS语法介绍.jpg"
   ]
 }

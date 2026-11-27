@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "cssTheme": "Tokyo Night",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true
 }
